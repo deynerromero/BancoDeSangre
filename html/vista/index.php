@@ -19,7 +19,7 @@
     <div class="col-xl-6 col-lg-6 col-md-8 col-12">
     <div class="card">
 
-    <div class="card-header bg-danger text-white">
+    <div class="card-header bg-success text-white">
         <span><strong>Registro</strong></span>      
     </div>  
    
